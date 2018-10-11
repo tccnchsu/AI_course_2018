@@ -19,11 +19,12 @@ students
 10430061　	林个寓   https://github.com/krislin123/10430061 
  
 
-10430065　	張容瑜 
+10430065　	張容瑜   https://github.com/Rongyu0402/10430065
 
 
-10430091　	廖宥滙 
-10430123　	王麒凱
+10430091　	廖宥滙 https://github.com/s10430091/ai10430091
+
+10430123　	王麒凱 https://github.com/CYUT-CKWang/AI10430123
 10527057　	林昱伶
 10530001　	陳俊安
 10530002　	湯旭蔚
