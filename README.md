@@ -25,7 +25,9 @@ students
 10430091　	廖宥滙 https://github.com/s10430091/ai10430091
 
 10430123　	王麒凱 https://github.com/CYUT-CKWang/AI10430123
-10527057　	林昱伶
+
+10527057　	林昱伶 https://github.com/yulingling1998/AI10527057
+
 10530001　	陳俊安
 10530002　	湯旭蔚
 10530003　	鄭明彥
