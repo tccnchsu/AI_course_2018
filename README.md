@@ -36,7 +36,7 @@ students
 
 10530005　	李柏翰 https://github.com/10530005/AI10530005
 
-10530006　	林奐希
+10530006　	林奐希 https://github.com/yamada1998/HW1/blob/master/README.md
 
 10530008　	陳俞愷
 
