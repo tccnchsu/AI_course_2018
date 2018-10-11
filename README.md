@@ -64,11 +64,12 @@ students
 
 10530036　	姚昱仲 https://github.com/a10530036/AI30036
 
-10530039　	莊旻諺
+10530039　	莊旻諺 https://github.com/s10530039/ai10530039
 
-10530040　	陳安健
+10530040　	陳安健 https://github.com/cag861011/AI10530040
 
-10530041　	詹曜瑞
+10530041　	詹曜瑞 https://github.com/CareyCHAN/AI-10530041
+
 
 10530045　	阮泓凱
 
