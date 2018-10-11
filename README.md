@@ -94,9 +94,9 @@ students
 
 10530070　	黃志銘 https://github.com/s10530070/AI
 
-10530074　	何昀諺
+10530074　	何昀諺 https://github.com/zccz5151/10530074
 
-10530081　	范智霖
+10530081　	范智霖 https://github.com/FanChihLing/AI10530081
 
 10530086　	蘇家威
 
