@@ -44,13 +44,13 @@ students
 
 10530021　	王長遠 https://github.com/Pisaw/AI10530021
 
-10530023　	吳育翔
+10530023　	吳育翔 https://github.com/10530023/AI-10530023
 
-10530024　	葉佳瑋
+10530024　	葉佳瑋 https://github.com/goodswei/AI10530024/blob/master/README.md
 
-10530025　	戴嘉韋
+10530025　	戴嘉韋 https://github.com/a252671630/AI10530025/blob/master/README.md
 
-10530026　	楊健歆
+10530026　	楊健歆 https://github.com/yang10530026/AI-10530026/blob/master/README.md
 
 10530027　	林君翰
 
