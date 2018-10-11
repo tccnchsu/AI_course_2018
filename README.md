@@ -7,7 +7,8 @@ Chih-Yu Hsu
 Prof. Hsu teaches computer programming, numerical analysis and AI to help those who wants to be a computer programming master and focus on controlling computers to benefit people more than only on making money.
 
 students
-10430033　	徐弦佑
+10430033　	徐弦佑 https://github.com/krislin123/10430061 //
+
 10430061　	林个寓
 10430065　	張容瑜
 10430091　	廖宥滙 
