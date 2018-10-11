@@ -9,13 +9,15 @@ Prof. Hsu teaches computer programming, numerical analysis and AI to help those 
 
 What is Markdown? 
 https://guides.github.com/features/mastering-markdown/
+
 https://github.com/guodongxiaren/README
 
 students  
 
-10430033　	徐弦佑 https://github.com/krislin123/10430061 
+10430033　	徐弦佑 
 
-10430061　	林个寓 
+10430061　	林个寓   https://github.com/krislin123/10430061 
+ 
 
 10430065　	張容瑜 
 
