@@ -34,7 +34,7 @@ students
 
 10530003　	鄭明彥 https://github.com/Mingyan0319/AI10530003
 
-10530005　	李柏翰
+10530005　	李柏翰 https://github.com/10530005/AI10530005
 
 10530006　	林奐希
 
