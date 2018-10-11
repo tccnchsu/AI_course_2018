@@ -38,7 +38,7 @@ students
 
 10530006　	林奐希 https://github.com/yamada1998/HW1/blob/master/README.md
 
-10530008　	陳俞愷
+10530008　	陳俞愷 https://github.com/asd1987456/10530008/blob/master/README.md
 
 10530014　	張智凱
 
