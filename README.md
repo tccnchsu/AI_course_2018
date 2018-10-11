@@ -112,7 +112,7 @@ students
 
 10530100　	劉修彣 https://github.com/10530100/AI10530100/blob/master/README.md
 
-10530101　	周朕暐
+10530101　	周朕暐 https://github.com/nekosam/AI10530101
 
 10530102　	張冠鈞
 
