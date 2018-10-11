@@ -127,18 +127,18 @@ students
 10530114　	林峻億 https://github.com/junyi918/AI10530114
 
 
-10530115　	紀智翔
+10530115　	紀智翔 https://github.com/chichihhsiang/AI-10530115
 
-10530117　	蔡子玄
+10530117　	蔡子玄 https://github.com/CZXuan/AI10530117
 
-10530118　	盧政豪
+10530118　	盧政豪 https://github.com/AI10530118/AI10530118
 
-10530121　	張家祥
+10530121　	張家祥 https://github.com/AIS10530121/AI10530121
 
-10530124　	劉泰忠
+10530124　	劉泰忠 https://github.com/21kr30/AI10530124
 
-10530126　	陳思羽
+10530126　	陳思羽 https://github.com/csy149/AI10530126
+ 
+10530128　	李威昕 https://github.com/TOPGUN861224/AI10530128
 
-10530128　	李威昕
-
-10714301　	馬露西
+10714301　	馬露西 https://github.com/marylucy04/Artificial-Inteligence-course-CYUT
