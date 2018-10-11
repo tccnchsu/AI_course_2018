@@ -124,7 +124,8 @@ students
 
 10530112　	曾子文 https://github.com/zzw1206/AI10530112
 
-10530114　	林峻億
+10530114　	林峻億 https://github.com/junyi918/AI10530114
+
 
 10530115　	紀智翔
 
