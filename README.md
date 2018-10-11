@@ -114,7 +114,7 @@ students
 
 10530101　	周朕暐 https://github.com/nekosam/AI10530101
 
-10530102　	張冠鈞
+10530102　	張冠鈞 https://github.com/s10530102/-
 
 10530106　	王忠柏
 
