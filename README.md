@@ -71,9 +71,9 @@ students
 10530041　	詹曜瑞 https://github.com/CareyCHAN/AI-10530041
 
 
-10530045　	阮泓凱
+10530045　	阮泓凱 https://github.com/Kyooob/AI10530045
 
-10530046　	施政陞
+10530046　	施政陞 https://github.com/flgjkh/AI-1
 
 
 10530048　	黃治瑋  https://github.com/hzchyh/AI10530048/blob/master/oop%20hw.ipynb
