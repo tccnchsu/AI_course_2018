@@ -120,9 +120,9 @@ students
 
 10530107　	楊順發 https://github.com/a77989a77989/AI10530107
 
-10530108　	蔡澔瑜
+10530108　	蔡澔瑜 https://github.com/10530108/AI10530108/blob/master/README.md
 
-10530112　	曾子文
+10530112　	曾子文 https://github.com/zzw1206/AI10530112
 
 10530114　	林峻億
 
