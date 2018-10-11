@@ -32,7 +32,7 @@ students
 
 10530002　	湯旭蔚  https://github.com/s5500s5500/AI10530002
 
-10530003　	鄭明彥
+10530003　	鄭明彥 https://github.com/Mingyan0319/AI10530003
 
 10530005　	李柏翰
 
