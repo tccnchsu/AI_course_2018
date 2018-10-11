@@ -42,7 +42,7 @@ students
 
 10530014　	張智凱 https://github.com/kai20181011/AI10530014
 
-10530021　	王長遠
+10530021　	王長遠 https://github.com/Pisaw/AI10530021
 
 10530023　	吳育翔
 
