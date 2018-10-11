@@ -79,10 +79,10 @@ students
 10530048　	黃治瑋  https://github.com/hzchyh/AI10530048/blob/master/oop%20hw.ipynb
 
 
-10530053　	江明怡
+10530053　	江明怡 https://github.com/mingyi03271998/AI10530053
 
 
-10530056　	許允瀚
+10530056　	許允瀚 https://github.com/dannyhsu1206/-WEEK4/blob/master/README.md
 
 10530058　	陳育詮
 
