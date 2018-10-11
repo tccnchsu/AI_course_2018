@@ -14,7 +14,7 @@ https://github.com/guodongxiaren/README
 
 students  
 
-10430033　	徐弦佑 
+10430033　	徐弦佑 https://github.com/AI10430033/AI10430033
 
 10430061　	林个寓   https://github.com/krislin123/10430061 
  
