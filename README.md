@@ -62,7 +62,7 @@ students
 
 10530033　	黃楒徫 https://github.com/cocoice7/AI10530033/find/master
 
-10530036　	姚昱仲
+10530036　	姚昱仲 https://github.com/a10530036/AI30036
 
 10530039　	莊旻諺
 
