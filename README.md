@@ -84,7 +84,7 @@ students
 
 10530056　	許允瀚 https://github.com/dannyhsu1206/-WEEK4/blob/master/README.md
 
-10530058　	陳育詮
+10530058　	陳育詮 https://github.com/10530058/10530058/blob/master/README.md
 
 10530062　	林秉勳
 
