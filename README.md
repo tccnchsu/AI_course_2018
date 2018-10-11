@@ -40,7 +40,7 @@ students
 
 10530008　	陳俞愷 https://github.com/asd1987456/10530008/blob/master/README.md
 
-10530014　	張智凱
+10530014　	張智凱 https://github.com/kai20181011/AI10530014
 
 10530021　	王長遠
 
