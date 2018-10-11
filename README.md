@@ -106,11 +106,11 @@ students
 
 10530095　	黃敏洋 https://github.com/10530095/AI10530095
 
-10530096　	江孟原
+10530096　	江孟原 https://github.com/k1234442563/AI10530096-1
 
-10530099　	李冠佑
+10530099　	李冠佑 https://github.com/Ligoodboy/AI-10530099
 
-10530100　	劉修彣
+10530100　	劉修彣 https://github.com/10530100/AI10530100/blob/master/README.md
 
 10530101　	周朕暐
 
