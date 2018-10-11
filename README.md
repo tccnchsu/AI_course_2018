@@ -28,7 +28,7 @@ students
 
 10527057　	林昱伶 https://github.com/yulingling1998/AI10527057
 
-10530001　	陳俊安
+10530001　	陳俊安 https://github.com/10530001/AI10530001
 
 10530002　	湯旭蔚  https://github.com/s5500s5500/AI10530002
 
