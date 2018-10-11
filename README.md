@@ -60,7 +60,7 @@ students
 
 10530031　	廖乙聰 https://github.com/10530031/AI10530031/
 
-10530033　	黃楒徫
+10530033　	黃楒徫 https://github.com/cocoice7/AI10530033/find/master
 
 10530036　	姚昱仲
 
