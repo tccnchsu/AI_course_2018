@@ -86,13 +86,13 @@ students
 
 10530058　	陳育詮 https://github.com/10530058/10530058/blob/master/README.md
 
-10530062　	林秉勳
+10530062　	林秉勳 https://github.com/binshenlin72410/AI10530062
 
-10530064　	蕭弘斌
+10530064　	蕭弘斌 https://github.com/10530064/AI10530064/blob/master/README.md
 
-10530066　	林威勳
+10530066　	林威勳 https://github.com/AI10530066/AI10530066
 
-10530070　	黃志銘
+10530070　	黃志銘 https://github.com/s10530070/AI
 
 10530074　	何昀諺
 
