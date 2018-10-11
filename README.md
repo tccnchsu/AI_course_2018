@@ -52,9 +52,9 @@ students
 
 10530026　	楊健歆 https://github.com/yang10530026/AI-10530026/blob/master/README.md
 
-10530027　	林君翰
+10530027　	林君翰 https://github.com/xup6billy123/AI10530027
 
-10530029　	劉立德
+10530029　	劉立德 https://github.com/Leader814/AI10530029
 
 10530030　	廖柏任
 
