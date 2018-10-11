@@ -98,7 +98,7 @@ students
 
 10530081　	范智霖 https://github.com/FanChihLing/AI10530081
 
-10530086　	蘇家威
+10530086　	蘇家威 https://github.com/s10530086/AI10530086
 
 10530089　	蘇哲民
 
