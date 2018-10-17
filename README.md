@@ -9,7 +9,8 @@ Prof. Hsu teaches computer programming, numerical analysis and AI to help those 
 
 將TensorFlow與Keras安裝在Windows系統  http://tensorflowkeras.blogspot.com/2017/08/tensorflowkeraswindows_29.html
 下載範例程式（用下列URL）
-http://www.drmaster.com.tw/down…/example/MP21710_example.zip
+http://www.drmaster.com.tw/download/example/MP21710_example.zip
+
 
 
 
