@@ -146,6 +146,6 @@ students
 
 10530126　	陳思羽 https://github.com/csy149/AI10530126
  
-10530128　	李威昕 https://github.com/TOPGUN861224/AI10530128
+10530128　	李威昕 https://github.com/ccwei3535
 
 10714301　	馬露西 https://github.com/marylucy04/Artificial-Inteligence-course-CYUT
