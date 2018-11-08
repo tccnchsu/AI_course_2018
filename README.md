@@ -13,6 +13,13 @@ http://www.drmaster.com.tw/download/example/MP21710_example.zip
 
 
 
+Learning TensorFlow
+A Guide to Building Deep Learning Systems
+http://shop.oreilly.com/product/0636920063698.do
+github
+https://github.com/gigwegbe/Learning-TensorFlow
+
+
 
 What is Markdown? 
 https://guides.github.com/features/mastering-markdown/
