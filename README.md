@@ -27,6 +27,10 @@ https://guides.github.com/features/mastering-markdown/
 
 https://github.com/guodongxiaren/README
 
+First attempt at building a CNN in Keras
+
+https://github.com/kumailht/diabetic-retinopathy
+
 students  
 
 10430033　	徐弦佑 https://github.com/AI10430033/AI10430033
