@@ -6,6 +6,10 @@ Chih-Yu Hsu
 
 Prof. Hsu teaches computer programming, numerical analysis and AI to help those who wants to be a computer programming master and focus on controlling computers to benefit people more than only on making money.
 
+Google Colab Free GPU Tutorial
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
+
+
 
 將TensorFlow與Keras安裝在Windows系統  http://tensorflowkeras.blogspot.com/2017/08/tensorflowkeraswindows_29.html
 下載範例程式（用下列URL）
