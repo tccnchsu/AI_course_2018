@@ -19,7 +19,8 @@ http://shop.oreilly.com/product/0636920063698.do
 github
 https://github.com/gigwegbe/Learning-TensorFlow
 
-
+TensorFlow Tutorial sherry
+https://github.com/sherrym/tf-tutorial
 
 What is Markdown? 
 https://guides.github.com/features/mastering-markdown/
