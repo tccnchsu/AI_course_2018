@@ -6,6 +6,9 @@ Chih-Yu Hsu
 
 Prof. Hsu teaches computer programming, numerical analysis and AI to help those who wants to be a computer programming master and focus on controlling computers to benefit people more than only on making money.
 
+Introduction to Machine Learning and Pattern Classification
+https://github.com/rasbt/pattern_classification
+
 Google Colab Free GPU Tutorial
 https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
 
