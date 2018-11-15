@@ -4,6 +4,11 @@ AI2007245
 Chih-Yu Hsu
 許志宇
 
+
+Stock Analysis Using Stocker 
+https://towardsdatascience.com/stock-analysis-in-python-a0054e2c1a4c
+https://github.com/WillKoehrsen/Data-Analysis/blob/master/stocker/Stocker%20Analysis%20Usage.ipynb
+
 Prof. Hsu teaches computer programming, numerical analysis and AI to help those who wants to be a computer programming master and focus on controlling computers to benefit people more than only on making money.
 
 Introduction to Machine Learning and Pattern Classification
