@@ -3,7 +3,9 @@ AI2007245
 
 Chih-Yu Hsu
 許志宇
+feature extraction from images
 
+https://www.kaggle.com/lorinc/feature-extraction-from-images
 
 Stock Analysis Using Stocker 
 https://towardsdatascience.com/stock-analysis-in-python-a0054e2c1a4c
