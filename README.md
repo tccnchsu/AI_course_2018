@@ -1,5 +1,7 @@
 # AI2007245
-AI2007245
+TRY JUPYTER
+http://jupyter.org/try
+
 
 Visualizing the gradient descent method
 https://scipython.com/blog/visualizing-the-gradient-descent-method/
