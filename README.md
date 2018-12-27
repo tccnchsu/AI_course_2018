@@ -1,6 +1,12 @@
 # AI2007245
 AI2007245
 
+
+參考資料:程式碼來源:https://zhuanlan.zhihu.com/p/34525554
+
+來源:https://www.kaggle.com/c/bike-sharing-demand
+
+
 Chih-Yu Hsu
 許志宇
 feature extraction from images
