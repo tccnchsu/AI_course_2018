@@ -1,6 +1,8 @@
 # AI2007245
 AI2007245
 
+Visualizing the gradient descent method
+https://scipython.com/blog/visualizing-the-gradient-descent-method/
 
 參考資料:程式碼來源:https://zhuanlan.zhihu.com/p/34525554
 
