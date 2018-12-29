@@ -1,6 +1,11 @@
 # AI2007245
+
+Chih-Yu Hsu
+許志宇
+
 TRY JUPYTER
 http://jupyter.org/try
+
 
 
 Visualizing the gradient descent method
@@ -10,9 +15,9 @@ https://scipython.com/blog/visualizing-the-gradient-descent-method/
 
 來源:https://www.kaggle.com/c/bike-sharing-demand
 
+优化器(optimizer)是编译Keras模型
+https://keras.io/zh/optimizers/
 
-Chih-Yu Hsu
-許志宇
 feature extraction from images
 
 https://www.kaggle.com/lorinc/feature-extraction-from-images
