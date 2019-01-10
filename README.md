@@ -3,6 +3,14 @@
 Chih-Yu Hsu
 許志宇
 
+Project Documentation
+Project Seminar: Balancing in Games
+https://www.wi.uni-muenster.de/sites/wi/files/users/mpreu_02/games-material/ma-ps-ws2015/project_documentation_-_balancing_in_games.pdf
+
+
+https://davidstutz.de/wordpress/wp-content/uploads/2014/07/seminar.pdf
+
+
 TRY JUPYTER
 http://jupyter.org/try
 
