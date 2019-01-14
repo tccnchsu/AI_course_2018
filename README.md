@@ -3,6 +3,9 @@
 Chih-Yu Hsu
 許志宇
 
+Lecture 7 - Part a - Statistical Learning with Applications in R - Tree-Based Methods
+https://youtu.be/U-dYqlvafYA
+
 Project Documentation
 Project Seminar: Balancing in Games
 https://www.wi.uni-muenster.de/sites/wi/files/users/mpreu_02/games-material/ma-ps-ws2015/project_documentation_-_balancing_in_games.pdf
