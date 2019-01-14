@@ -3,6 +3,10 @@
 Chih-Yu Hsu
 許志宇
 
+
+人工智慧多目標最佳化程式模組系統之開發以基因演算法為基礎
+http://ir.lib.cyut.edu.tw:8080/bitstream/310901800/8686/1/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E5%A4%9A%E7%9B%AE%E6%A8%99%E6%9C%80%E4%BD%B3%E5%8C%96%E7%A8%8B%E5%BC%8F%E6%A8%A1%E7%B5%84%E7%B3%BB%E7%B5%B1%E4%B9%8B%E9%96%8B%E7%99%BC%E4%BB%A5%E5%9F%BA%E5%9B%A0%E6%BC%94%E7%AE%97%E6%B3%95%E7%82%BA%E5%9F%BA%E7%A4%8E%282%29.pdf
+
 Lecture 7 - Part a - Statistical Learning with Applications in R - Tree-Based Methods
 https://youtu.be/U-dYqlvafYA
 
